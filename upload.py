@@ -17,5 +17,5 @@ task_status = gazu.task.get_task_status_by_short_name("todo")
     tasks[0],
     task_status,
     comment="upload preview",
-    preview_file_path="./thumbnail.png"
+    preview_file_path="./preview.png"
 )
